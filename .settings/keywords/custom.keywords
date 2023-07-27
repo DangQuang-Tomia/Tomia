@@ -1,0 +1,10 @@
+{
+  "name": "Custom Keywords",
+  "packageId": "custom",
+  "keywordType": "custom",
+  "version": "1.0.0",
+  "disabled": false,
+  "keywordCatalogs": [],
+  "customCatalogs": [],
+  "afterTcKws": []
+}

@@ -1,0 +1,8 @@
+{
+  "suiteMapping": {
+    "eaacc939-3189-401d-b5df-32cf47189918": [
+      {"roundBindingId":"a875ce36-9f3e-407a-89ed-922eb7719d16","tcId":"123529b8-6a1c-42b9-899a-b15d404578c7","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"ae4c0a83-12a0-4d65-9ef0-84dfdd584824","tcId":"b1dcbed9-8d5b-47d7-aa9b-4d5510ceaf7f","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

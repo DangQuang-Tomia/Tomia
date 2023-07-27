@@ -1,0 +1,23 @@
+{
+  "currentProfileId": "default",
+  "varNode": {
+    "descendants": {
+      "submit_btn": {
+        "descendants": {},
+        "value": "//button[@type\u003d\u0027submit\u0027]"
+      },
+      "URL_prod": {
+        "descendants": {},
+        "value": "https://app.tomia.vn/"
+      },
+      "URL_staging": {
+        "descendants": {},
+        "value": "https://app-staging.tomia.vn/"
+      },
+      "URL_dev": {
+        "descendants": {},
+        "value": "https://app-dev.tomia.vn/"
+      }
+    }
+  }
+}
